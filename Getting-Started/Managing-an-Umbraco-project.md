@@ -1,1 +1,0 @@
-# Managing an Umbraco project
