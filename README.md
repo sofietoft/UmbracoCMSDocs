@@ -1,4 +1,4 @@
-# UmbracoCMSDocs [WIP]
+# Umbraco CMS Documentation
 
 This is the new repository for articles and tutorials on Umbraco on .NET Core.
 
@@ -6,17 +6,17 @@ This is NOT the official documentation for Umbraco CMS. The official UmbracoDocs
 
 ## Reading and using the articles
 
-It is **important to note** that this entire repository is a work in progress (WIP), which means that it will not contain a completed section of the documentation for Umbraco.
+It is **important to note** that this entire repository is a work in progress \(WIP\), which means that it will not contain a completed section of the documentation for Umbraco.
 
-All articles are divided into *topics* and each article can contain various *subtopics*. All topics and subtopics can be found under [Articles](Articles).
+All articles are divided into _topics_ and each article can contain various _subtopics_. All topics and subtopics can be found under [Articles](https://github.com/sofietoft/UmbracoCMSDocs/tree/b77bff6924e1d306a5bdcb8920c8078bcf1b2b57/Articles/README.md).
 
-Each tutorial in the [Tutorials](Tutorials) folder has its own folder, in which multiple files and subfolders might also be found.
+Each tutorial in the [Tutorials](https://github.com/sofietoft/UmbracoCMSDocs/tree/b77bff6924e1d306a5bdcb8920c8078bcf1b2b57/Tutorials/README.md) folder has its own folder, in which multiple files and subfolders might also be found.
 
 ## Try out Umbraco on .NET Core
 
 Umbraco on .NET Core is currently in alpha and everyone with an interest in Umbraco and the .NET Core framework is recommended to take it for a spin.
 
-You can find instructions on how to get started with the product in the [Umbraco on .NET Core - Updates](UmbracoNetCoreUpdates.md) article.
+You can find instructions on how to get started with the product in the [Umbraco on .NET Core - Updates](other-resources/umbraconetcoreupdates.md) article.
 
 ## Contributing to the repository
 
@@ -28,15 +28,15 @@ All files are written using [Markdown](https://www.markdownguide.org/cheat-sheet
 
 Do you have some knowledge about Umbraco on .NET Core that you would like to share and that hasn't already been added to this repository?
 
-Here are the steps you need to follow in order to add your article(s):
+Here are the steps you need to follow in order to add your article\(s\):
 
-* Create a **fork** of this repository (UmbracoCMSDocs).
+* Create a **fork** of this repository \(UmbracoCMSDocs\).
 * Clone down your fork to your local machine.
-* Create a new folder under **Articles/** using the **topic** you will be covering in your article(s).
+* Create a new folder under **Articles/** using the **topic** you will be covering in your article\(s\).
 * Create an `index.md` file in the topic folder. This will be the landing page for the topic.
 * Add an `images/` folder to the topic, if you plan on using screenshots in the article.
-* Use the name of the subtopic for the files (e.g. `sub-topic.md`) when adding more articles under the same topic.
-* Write the article(s).
+* Use the name of the subtopic for the files \(e.g. `sub-topic.md`\) when adding more articles under the same topic.
+* Write the article\(s\).
 * [Create a PR from your fork](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) on this repository.
 
 We strive to answer each PR within 48 hours during weekdays, not including holidays.
@@ -45,15 +45,15 @@ We strive to answer each PR within 48 hours during weekdays, not including holid
 
 Have you written a guide on how to do something in Umbraco on .NET Core or do you know of a workflow to complete a certain task? And is this something you'd like to share with your fellow Umbracians?
 
-Here are the steps you need to follow in order to add your tutorial(s):
+Here are the steps you need to follow in order to add your tutorial\(s\):
 
-* Create a **fork** of this repository (UmbracoCMSDocs).
+* Create a **fork** of this repository \(UmbracoCMSDocs\).
 * Clone down your fork to your local machine.
 * Create a new folder under **Tutorials/** using the **name of the tutorial** you will be creating.
 * Create an `index.md` file in the topic folder. This will be the landing page for the tutorial.
 * Add an `images/` folder to the topic, if you plan on using screenshots in the tutorial.
-* Use the *step number* for a new page, when creating a multi-page tutorial.
-* Write the tutorial(s).
+* Use the _step number_ for a new page, when creating a multi-page tutorial.
+* Write the tutorial\(s\).
 * [Create a PR from your fork](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) on this repository.
 
 We strive to answer each PR within 48 hours during weekdays, not including holidays.
@@ -62,15 +62,15 @@ We strive to answer each PR within 48 hours during weekdays, not including holid
 
 Did you write a blog post about Umbraco on .NET Core?
 
-You are more than welcome to add the post to the list of community resources on the [Umbraco on .NET Core - Updates](UmbracoNetCoreUpdates.md) article.
+You are more than welcome to add the post to the list of community resources on the [Umbraco on .NET Core - Updates](other-resources/umbraconetcoreupdates.md) article.
 
 Follow these steps to add your blog post to the list:
 
-* Select the Edit tool (pencil icon) in the top-right corner of the article.
+* Select the Edit tool \(pencil icon\) in the top-right corner of the article.
 * Add a link to your blog post below **Community blog posts** in the Community resources section of the article.
 * Add a short description of the change you've made to the **Commit changes** dialog below the article.
 * Choose **Propose file change**.
-* Ensure your link and link title is correct and **Submit the Pull Request (PR)**.
+* Ensure your link and link title is correct and **Submit the Pull Request \(PR\)**.
 
 ### Report issues and ask questions
 
@@ -86,6 +86,7 @@ If you have any questions about Umbraco on .NET Core and the progress of the pro
 
 To follow the current status of the Umbraco on .NET Core project keep an eye on [the official Umbraco Blog](https://umbraco.com/blog/).
 
-You can also find fresh content about the project either directly from Umbraco HQ or from the community, on the [Umbraco on .NET Core - Updates](UmbracoNetCoreUpdates.md) article.
+You can also find fresh content about the project either directly from Umbraco HQ or from the community, on the [Umbraco on .NET Core - Updates](other-resources/umbraconetcoreupdates.md) article.
 
 ## [The Official UmbracoDocs](https://github.com/umbraco/UmbracoDocs)
+

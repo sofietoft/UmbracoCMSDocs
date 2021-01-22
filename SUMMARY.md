@@ -1,23 +1,24 @@
-# Summary
+# Table of contents
 
 * [Umbraco CMS Documentation](README.md)
 
 ## Getting Started
 
-* [Managing an Umbraco project](Getting-Started/Managing-an-Umbraco-project.md)
-* [Editing websites and content](Getting-Started/Editing-websites-and-content.md)
-* [Creating and implementing websites](Getting-Started/Creating-websites.md)
-* [Developing websites](Getting-Started/Developing-websites.md)
-  * [Extending the Umbraco backoffice](Getting-Started/Extending-the-Umbraco-backoffice.md)
-  * [Developing custom Umbraco solutions](Getting-Started/Developing-custom-Umbraco-sites.md)
-* [Hosting Umbraco](Getting-Started/Hosting-Umbraco.md)
+* [Managing an Umbraco project](getting-started/managing-an-umbraco-project.md)
+* [Editing websites and content](getting-started/editing-websites-and-content.md)
+* [Creating and implementing websites](getting-started/creating-websites.md)
+* [Developing websites](getting-started/developing-websites/README.md)
+  * [Extending the Umbraco backoffice](getting-started/developing-websites/extending-the-umbraco-backoffice.md)
+  * [Developing custom Umbraco solutions](getting-started/developing-websites/developing-custom-umbraco-sites.md)
+* [Hosting Umbraco](getting-started/hosting-umbraco.md)
 
 ## Content
 
-* [Articles](Articles/index.md)
-  * [MVC in Umbraco](Articles/MVC-in-Umbraco/MVC-in-Umbraco.md)
-* [Tutorials](Tutorials/index.md)
+* [Articles](content/index/README.md)
+  * [MVC in Umbraco](content/index/mvc-in-umbraco.md)
+* [Tutorials](content/tutorials.md)
 
 ## Other resources
 
-* [Umbraco on .NET Core - Updates](UmbracoNetCoreUpdates.md)
+* [Umbraco on .NET Core - Updates](other-resources/umbraconetcoreupdates.md)
+
