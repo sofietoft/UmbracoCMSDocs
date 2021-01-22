@@ -15,6 +15,7 @@
 ## Content
 
 * [Articles](Articles/index.md)
+  * [MVC in Umbraco](MVC-in-Umbraco/MVC-in-Umbraco.md)
 * [Tutorials](Tutorials/index.md)
 
 ## Other resources
