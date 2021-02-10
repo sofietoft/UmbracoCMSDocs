@@ -22,3 +22,7 @@
 
 * [Umbraco on .NET Core - Updates](other-resources/umbraconetcoreupdates.md)
 
+---
+
+* [Hej!](hej.md)
+

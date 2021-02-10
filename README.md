@@ -2,7 +2,7 @@
 
 This is the new repository for articles and tutorials on Umbraco on .NET Core.
 
-This is NOT the official documentation for Umbraco CMS. The official UmbracoDocs can be found on [github/UmbracoDocs](https://github.com/umbraco/UmbracoDocs) or on [our.umbraco.com](https://our.umbraco.com/).
+This is NOT the official documentation for Umbraco CMS. The official UmbracoDocs can be found on [github/UmbracoDocs](https://github.com/umbraco/UmbracoDocs) or on [our.umbraco.com](https://our.umbraco.com/). En ny ændring
 
 ## Reading and using the articles
 
